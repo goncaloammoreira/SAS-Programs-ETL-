@@ -1,4 +1,4 @@
-# SAS-Programs-ETL-
+# SAS-Programs-ETL
 
 SAP Spend & Accounting Mill SAS Script
 
